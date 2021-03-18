@@ -1,0 +1,4 @@
+This project translates between infix and postfix expressions using a Stack based algorithm.
+
+It culminates into a card game presented on Java Swing GUI. It features imported card images and 
+a Jtextfield to capture user input and translate it into infix/postfix
