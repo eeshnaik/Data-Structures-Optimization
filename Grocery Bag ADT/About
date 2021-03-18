@@ -1,0 +1,2 @@
+This project creates an ADT Grocery Bag that can carry groceries. The data structure used to implement it is an ArrayList. It can add grocery items, remove them, tell you the size of the bag, clear the bag, remove grocery items at a certain index, and more.
+The functionalities are wrapped and tested in an helper class and started with a driver.
