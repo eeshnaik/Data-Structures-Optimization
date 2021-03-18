@@ -1,0 +1,5 @@
+This project replicates how Strings are stored in Java. It makes a Linked List to represent a String, where the 
+implementing data structure is an ArrayList.
+
+Each character of the String is stored in a node of a Linked List.
+The functionalities are wrapped and tested in a Helper class and started by a Driver class
