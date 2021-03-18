@@ -1,0 +1,8 @@
+This project creates an ADT address book. It is implemeted using a M-ary search tree.
+You can search up contacts, search up phone numbers, add contacts, delete contacts, and much more.
+Features an interface to list all functionalities.
+
+It is all done using generics so it can be used for any other project.
+The iterator is also written from scratch
+
+The program is wrapped and tested in a Helper class and run with a Driver class.
