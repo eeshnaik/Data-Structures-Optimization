@@ -1,0 +1,14 @@
+This project creates a simulation software to better understand the complex dynamics behind packet transfer in routers.
+It features 3 sets of routers (1 packet sourcing router, 1 destination router, and a variable amount of intermediate routers).
+
+Each packet is given a size and an approximate time to destination.
+Each router is attributed with a bandwidth (n packets at a certain moment).
+Packets are dropped if the bandwidth is exceeded.
+
+A simulation is then run to determine the following key statistics:
+- Network rutime
+- Average Time for packet to reach destination
+- # of packets dropped
+
+Paramters for the simulation (# of routers, router bandwidth, etc) can be changed by the user to see how the key statistics change.
+The status of each router and packet is detailed at each simulation unit.
