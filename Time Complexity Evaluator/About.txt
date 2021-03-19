@@ -1,5 +1,7 @@
 This project analyzes Python code and produces a detailed breakdown of its time complexity.
-The program parses through a .py file and recognizes key words & symbols and uses it to generate a report
+The program parses through a .py file and recognizes key words & symbols and uses it to generate a report.
+
+The parsing algorithm centers around the use of the Stack data structure.
 
 The report details the time complexity of every block of code. 
 Its currently limited to only a medium sized range of keywords and code patterns
