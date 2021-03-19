@@ -1,0 +1,13 @@
+This project features a directed graph (adjacency matrix) to represent a search engine roughly modeled by the Page-rank algorithm.
+It is made up of custom classes to create objects for each page and URL. Pages are abstractly linked to each other to provide a page-rank.
+
+The final product is wrapped in a clean Java Swing GUI that features the following operations:
+
+- Add a page
+- Add a link
+- Remove a page
+- Remove a link
+- Search key words to receive search results
+
+Also features a custom comparator to sort search results alphabetically by Page, URL, or numerically by Page rank.
+User is also given option to edit a txt file to quickly add/remove/modify Pages and Links in the directed graph.
