@@ -10,5 +10,7 @@ A simulation is then run to determine the following key statistics:
 - Average Time for packet to reach destination
 - # of packets dropped
 
+The simulation process/algorithm is centered around the Queue data structure.
+
 Paramters for the simulation (# of routers, router bandwidth, etc) can be changed by the user to see how the key statistics change.
 The status of each router and packet is detailed at each simulation unit.
