@@ -1,0 +1,13 @@
+In this project, I simulated a Bash terminal in a Java environment.
+It is coded to include common Bash commands such as:
+
+touch()
+mkdir()
+cd()
+path()
+find()
+ls
+ls -R
+and more
+
+The directories are stored in a M-ary tree and it was largely object-orientated
